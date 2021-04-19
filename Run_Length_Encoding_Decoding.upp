@@ -1,0 +1,8 @@
+description "simple Run-Length Encoding & Decoding Algorithm implementation in C++\377";
+
+file
+	decoding.h,
+	play.h,
+	main.cpp,
+	encoding.h;
+
